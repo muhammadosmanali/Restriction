@@ -1,2 +1,2 @@
 # Restriction
-Restrict the user for multiple login in same windows with different browsers.
+Restrict the user from multiple login in same windows with different browsers.
